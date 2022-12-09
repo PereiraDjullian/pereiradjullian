@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Djullian Pereira</h1>
-<h3 align="center">A passionate backend developer from Brasil.</h3>
+<h3 align="center">A passionate backend developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pereiradjullian&label=Profile%20views&color=0e75b6&style=flat" alt="pereiradjullian" /> </p>
 
