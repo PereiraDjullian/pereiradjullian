@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python , Java, Sql**
 
-- 📫 How to reach me **pereiradjullian@gmail.com**
+- 📫 How to reach me **djullianpereira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
