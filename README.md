@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pereiradjullian&label=Profile%20views&color=0e75b6&style=flat" alt="pereiradjullian" /> </p>
 
-- 🌱 I’m currently learning **Python , Java, Sql**
-
 - 📫 How to reach me **djullianpereira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
